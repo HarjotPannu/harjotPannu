@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881586477145",
+    "firebase_url": "https://visionplus-b6296.firebaseio.com",
+    "project_id": "visionplus-b6296",
+    "storage_bucket": "visionplus-b6296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881586477145:android:10f6ae2e362ea788",
+        "android_client_info": {
+          "package_name": "com.example.dell.visionplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881586477145-1qdqiovn2b66tbt745mh4svgpnd3087r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3LO8hU6c0XZYNVhDnwv2YAV178ugzvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
